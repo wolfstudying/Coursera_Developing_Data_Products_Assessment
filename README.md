@@ -4,4 +4,5 @@ Part1 contains files all the correlativly,such as about.md,data_processing.R,ser
 old_sets.csv and sets.csv.
 
 Part2 links is "http://rpubs.com/IronWolf/Developing_Data_Products_Part2",may be it display has some trouble,but it 
-displays normaly on my computer.Also I provide index.html as well,download it to your browser,I think it display well.
+displays normaly on my computer.Also I provide index.html as well,if you download it to your browser,
+I think it display well.
