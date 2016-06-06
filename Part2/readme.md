@@ -8,4 +8,5 @@ The project use slidify to generated,and I give the rpubs "http://rpubs.com/Iron
 as well,in order to prevent it can't displays well in your computer.Now if this thing happen,you can open "index.html" 
 in your Chrome browser and it will display clearly.
 
-Please forgive me,best wishes to you.
+This is just the html,there have no necessary slidify envrionment to run it.I Hope you get the 
+environment by yourself.It will run well in your slidify envrionment.Please forgive me,best wishes to you.
